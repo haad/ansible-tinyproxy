@@ -9,6 +9,7 @@ galaxy_info:
       versions:
         - trusty
         - precise
+        - xenial
   galaxy_tags:
     - system
     - networking
